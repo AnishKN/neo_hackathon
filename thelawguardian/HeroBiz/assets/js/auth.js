@@ -71,7 +71,7 @@ function uploadBtn() {
     });
     }
     else{
-        window.location.href = "./upload.html";
+        window.location.href = "https://thelawguardiaan.vercel.app";
     }
 }
 
